@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imanirak
 - 👀 I’m interested in plants and tech ;)
-- 🌱 I’m currently learning too much lol
-- 💞️ I’m looking to collaborate on everything!!
+- 🌱 I’m currently learning javascript and css animations.
+- 💞️ I’m looking to collaborate with other software engineers, feel free to reach out.
 - 📫 How to reach me, dont, jk @anirak.variegata on ig.
 
 <!---
