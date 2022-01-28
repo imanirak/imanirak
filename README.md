@@ -1,6 +1,6 @@
 
 
-<p style="text-align:center;"><img width="100%" height="auto" src="https://i.ibb.co/T2XZztZ/Pngtree-programmer-thinking-line-painting-6399091.png" height="500px"/></p>
+<p style="text-align:center;"><img width="180%" height="auto" src="https://i.ibb.co/T2XZztZ/Pngtree-programmer-thinking-line-painting-6399091.png" height="500px"/></p>
 
 
 
