@@ -3,25 +3,22 @@
 <p style="text-align:center;"><img width="100%" height="auto" src="https://i.ibb.co/CKzrWn6/pairprogrmaming.png" height="500px"/></p>
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Karina</h1>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imanirak&label=Profile%20views&color=0e75b6&style=flat" alt="imanirak" /> </p>
-
-## 🙋‍♂️ About Me
+## 💁‍♀️ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Karina
 
 - 🔭 I’m currently working on [SavvyDeco](https://github.com/imanirak/savvydeco)
 
-- 🌱 I’m currently learning **EJS**
+- ⚡ I’m currently learning **EJS**
 
 - 💬 Ask me about **javascript and css**
 
 - 📫 How to reach me **karinadgarces@gmail.com**
 
-- ⚡ Fun fact **I have over 50+ plants**
+- 🌱 Fun fact **I have over 50+ plants**
 
 <p><a href="https://www.buymeacoffee.com/imanirak"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imanirak" /></a></p><br><br>
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=imanirak&label=Profile%20views&color=0e75b6&style=flat" alt="imanirak" /> </p>
 
 ## Connect with me:
 
