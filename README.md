@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Karina Garces</h1>
-<h3 align="center">A passionate software engineering student currently enrolled at GA.</h3>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Karina</h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imanirak&label=Profile%20views&color=0e75b6&style=flat" alt="imanirak" /> </p>
 
@@ -11,7 +15,7 @@
 
 - 📫 How to reach me **karinadgarces@gmail.com**
 
-- ⚡ Fun fact **I**
+- ⚡ Fun fact **I have over 50+ plants**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
