@@ -1,6 +1,6 @@
 
 
-<p style="text-align:center;"><img width="500px" height="auto" src="https://i.ibb.co/CKzrWn6/pairprogrmaming.png" height="500px"/></p>
+<p style="text-align:center;"><img width="100%" height="auto" src="https://i.ibb.co/CKzrWn6/pairprogrmaming.png" height="500px"/></p>
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Karina</h1>
