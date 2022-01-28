@@ -37,4 +37,3 @@
 ## Support:
 <p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=imanirak&show_icons=true&locale=en&layout=compact" alt="imanirak" /></p>
 
-<p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=imanirak&" alt="imanirak" /></p>
