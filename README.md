@@ -1,10 +1,10 @@
 
 
-<p style="text-align:center;"><img width="100%" height="auto" src="https://i.ibb.co/CKzrWn6/pairprogrmaming.png" height="500px"/></p>
+<p style="text-align:center;"><img width="100%" height="auto" src="https://i.ibb.co/T2XZztZ/Pngtree-programmer-thinking-line-painting-6399091.png" height="500px"/></p>
 
 
 
-## 💁‍♀️ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Karina
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Karina
 
 - 🔭 I’m currently working on [SavvyDeco](https://github.com/imanirak/savvydeco)
 
