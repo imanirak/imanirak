@@ -1,4 +1,4 @@
-<a href="#"><img width="300px" height="auto" src="https://i.ibb.co/CKzrWn6/pairprogrmaming.png" height="300px"/></a>
+<a href="#"><img width="500px" height="auto" src="https://i.ibb.co/CKzrWn6/pairprogrmaming.png" height="500px"/></a>
 
 
 
