@@ -34,3 +34,5 @@
 ## Support:
 <p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=imanirak&show_icons=true&locale=en&layout=compact" alt="imanirak" /></p>
 
+
+![snake gif](https://github.com/imanirak/imanirak/blob/output/github-contribution-grid-snake.gif)
