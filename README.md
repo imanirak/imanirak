@@ -1,7 +1,10 @@
 ![header](https://github.com/imanirak/imanirak/blob/main/kg.gif)
 
-
-
+![MACOS](https://img.shields.io/badge/OS-MAC-informational?style=flat&logo=<LOGO_NAME>&orange=white&color=orange)
+![Editor](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<LOGO_NAME>&orange=white&color=yellow)
+![Code](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<LOGO_NAME>&orange=white&color=orange)
+  </p>
+  
 <img align="right" src="https://github.com/imanirak/imanirak/blob/main/aliens.png" height="350" width="450" alt="imanirak" />
 <br>
 
@@ -55,4 +58,8 @@
 
 ## Support:
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=imanirak&theme=graywhite&show_icons=true)
+
+    
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=imanirak&theme=graywhite&show_icons=true)         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imanirak&langs_count=5)](https://github.com/imanirak/github-readme-stats)
+    
+
