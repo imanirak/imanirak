@@ -2,7 +2,7 @@
 
 
 
-<img align="right" src="https://github.com/imanirak/imanirak/blob/main/aliens.png" height="300" width="450" alt="imanirak" />
+<img align="right" src="https://github.com/imanirak/imanirak/blob/main/aliens.png" height="450" width="550" alt="imanirak" />
 
 <p align="left">
 - 🔭 I’m currently working on [SavvyDeco](https://github.com/imanirak/savvydeco)
