@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **javascript and css**
 
-- 📫 How to reach <a href="mailto:karinadgarces@gmail.com">Email me</a>  
+- 📫 How to reach <a href="mailto:karinadgarces@gmail.com">me</a>  
 - 🌱 Fun fact **I have over 50+ plants**
 </p>
 
