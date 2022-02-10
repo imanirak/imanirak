@@ -12,11 +12,9 @@
   
 - 🔭 I’m currently working on [SavvyDeco](https://github.com/imanirak/savvydeco)
 
-- ⚡ I’m currently learning **EJS**
+- ⚡ I’m currently learning **React**
 
-- 💬 Ask me about **javascript and css**
-
-- 📫 How to reach <a href="mailto:karinadgarces@gmail.com">me</a>  
+- 📫 You can reach <a href="mailto:karinadgarces@gmail.com">me</a>  
 - 🌱 Fun fact **I have over 50+ plants**
 </p>
 
