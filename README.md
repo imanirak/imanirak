@@ -26,7 +26,7 @@
  <img align="right" width="150" height="150" src="https://github.com/imanirak/imanirak/blob/main/tag.png">
 Languages:  Python | JavaScript (ES6) | HTML & HTML5 | CSS & CSS3
 <br>
-Libraries and Frameworks:  Django | Git & GitHub | React | Node.js | Express.js |
+Libraries and Frameworks:  Django | Git & GitHub | React | Node.js | Express.js 
 <br>
 Database: MongoDB | Mongoose |  SQL
 <br>
