@@ -1,8 +1,9 @@
 
 
 
- ![header](https://github.com/imanirak/imanirak/blob/main/github.png)
-    
+ ![header](https://github.com/imanirak/imanirak/blob/main/github.png#gh-light-mode-only)
+  ![header logo](https://github.com/imanirak/imanirak/blob/main/darkmode.png#gh-dark-mode-only)
+
 
 
 #  ✨ Hi, I'm Karina 👋🏼👩🏽‍💻 ![MACOS](https://img.shields.io/badge/OS-MAC-informational?style=flat&logo=<LOGO_NAME>&orange=white&color=25BDBE) ![Editor](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<LOGO_NAME>&orange=white&color=FC754B) ![Code](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<LOGO_NAME>&orange=white&color=FBBF25) ![Code](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&orange=white&color=important) ![Code](https://komarev.com/ghpvc/?username=imanirak&label=Profile%20views&color=FC754B&style=flat)       ✨ 
@@ -13,7 +14,9 @@
 
 
 
-## Find me on the web 🌎: <img align="left" width="150" height="150" src="https://github.com/imanirak/imanirak/blob/main/g1.png">
+## Find me on the web 🌎: 
+
+  <img align="left" width="150" height="150" src="https://github.com/imanirak/imanirak/blob/main/g1.png ">
 
    - Follow my journey on <a href="https://www.instagram.com/anirak.dev/">Instagram</a> 📷
    - Learning new skills on <a href="https://codepen.io/anirak"> Codepen</a> 📝
@@ -23,7 +26,7 @@
 <br>
 
 ## Languages and Tools ⚙️:
- <img align="right" width="150" height="150" src="https://github.com/imanirak/imanirak/blob/main/tag.png">
+ <img align="right" width="150" height="150" src="https://github.com/imanirak/imanirak/blob/main/tag.png  ">
 Languages:  Python | JavaScript (ES6) | HTML & HTML5 | CSS & CSS3
 <br>
 Libraries and Frameworks:  Django | Git & GitHub | React | Node.js | Express.js 
