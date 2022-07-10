@@ -1,33 +1,26 @@
-![header](https://github.com/imanirak/imanirak/blob/main/kg.gif)
 
-![MACOS](https://img.shields.io/badge/OS-MAC-informational?style=flat&logo=<LOGO_NAME>&orange=white&color=orange)
-![Editor](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<LOGO_NAME>&orange=white&color=yellow)
-![Code](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<LOGO_NAME>&orange=white&color=orange)
-  </p>
+
+ ![header]()
+    
+
+# Hi, I'm Karina 👋🏼👩🏽‍💻 ![MACOS](https://img.shields.io/badge/OS-MAC-informational?style=flat&logo=<LOGO_NAME>&orange=white&color=orange) ![Editor](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<LOGO_NAME>&orange=white&color=yellow) ![Code](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<LOGO_NAME>&orange=white&color=orange) ![Code](https://komarev.com/ghpvc/?username=imanirak&label=Profile%20views&color=orange&style=flat)
+  
+
+![header]()
   
 
 <br>
 
-<p align="left">
-  
-- 🔭 I’m currently working on [Little-Space](https://github.com/imanirak/little-space)
+I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
 
-- ⚡ I’m currently learning **Django**
 
-- 📫 You can reach <a href="mailto:karinadgarces@gmail.com">me</a>  
-- 🌱 Fun fact **I have over 50+ plants**
-</p>
 
-  
-<p><a href="https://www.buymeacoffee.com/imanirak"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imanirak" /></a></p>
-  
-  <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imanirak&label=Profile%20views&color=orange&style=flat" alt="imanirak" /> </p>
+## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+- Sharing my journey on <a href="https://www.instagram.com/anirak.dev/">Instagram</a> or <a href="https://karinathe.dev/">karinathe.dev</a> 📹 ✍🏾
+- Tinkering with interactions on <a href="https://codepen.io/anirak"> Codepen</a> 🏓
+- Sharing updates on <a href="https://www.linkedin.com/in/karinadgarces/">LinkedIn</a> 💼
 
-  
-<br><br>
-  
-  
+
 ## 🚀 Languages and Tools:
 
 <p align="center">
@@ -45,14 +38,5 @@
     
     
 </p>
-
-## Support:
-
-
-
-
-     
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=imanirak&theme=graywhite&show_icons=true)
-  ![ GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=imanirak&show_icons=true&locale=en&layout=compact) 
 
 ![snake gif](https://github.com/imanirak/imanirak/blob/output/github-contribution-grid-snake.gif)
