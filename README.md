@@ -9,7 +9,7 @@
 #  ✨ Hi, I'm Karina 👋🏼👩🏽‍💻 ![MACOS](https://img.shields.io/badge/OS-MAC-informational?style=flat&logo=<LOGO_NAME>&orange=white&color=25BDBE) ![Editor](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<LOGO_NAME>&orange=white&color=FC754B) ![Code](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<LOGO_NAME>&orange=white&color=FBBF25) ![Code](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&orange=white&color=important) ![Code](https://komarev.com/ghpvc/?username=imanirak&label=Profile%20views&color=FC754B&style=flat)       ✨ 
  
   
- As a software engineer who demands to be constantly intellectually challenged, I am eager to experience the continuous journey the field of software development has to offer.
+ As a software engineer who demands to be constantly intellectually challenged, I am eager to experience the continuous journey the world of software development has to offer.
 
 
 
