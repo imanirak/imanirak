@@ -16,7 +16,10 @@
 
 ## Find me on the web 🌎: 
 
-  <img align="left" width="150" height="150" src="https://github.com/imanirak/imanirak/blob/main/g1.png ">
+<picture>
+     <source media="(prefers-color-scheme: dark)" srcset="./g1-dark.png">
+    <img align="left" width="150" height="150 src="./g1.png">
+</picture>
 
    - Follow my journey on <a href="https://www.instagram.com/anirak.dev/">Instagram</a> 📷
    - Learning new skills on <a href="https://codepen.io/anirak"> Codepen</a> 📝
@@ -26,7 +29,10 @@
 <br>
 
 ## Languages and Tools ⚙️:
- <img align="right" width="150" height="150" src="https://github.com/imanirak/imanirak/blob/main/tag.png  ">
+<picture>
+     <source media="(prefers-color-scheme: dark)" srcset="./tag-dark.png">
+    <img align="left" width="150" height="150 src="./tag.png">
+</picture>
 Languages:  Python | JavaScript (ES6) | HTML & HTML5 | CSS & CSS3
 <br>
 Libraries and Frameworks:  Django | Git & GitHub | React | Node.js | Express.js 
@@ -48,8 +54,8 @@ Database: MongoDB | Mongoose |  SQL
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
   
-    
-    
 </p>
-
-![snake gif](https://github.com/imanirak/imanirak/blob/output/github-contribution-grid-snake.gif)
+ 
+ 
+![snake gif](https://github.com/imanirak/imanirak/blob/output/github-contribution-grid-snake.gif#gh-light-mode-only)
+![snake gif](https://github.com/imanirak/imanirak/blob/output/github-contribution-grid-snake.gif#gh-dark-mode-only)
