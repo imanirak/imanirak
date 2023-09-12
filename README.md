@@ -56,6 +56,3 @@ Database: MongoDB | Mongoose |  SQL
   
 </p>
  
- 
-![snake gif](https://github.com/imanirak/imanirak/blob/output/github-contribution-grid-snake.gif#gh-light-mode-only)
-![snake gif](https://github.com/imanirak/imanirak/blob/output/github-contribution-grid-snake.gif#gh-dark-mode-only)
